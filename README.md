@@ -7,4 +7,6 @@
 
 ## Best practices
 
+## Features of the repo
+
 ## Author details 
