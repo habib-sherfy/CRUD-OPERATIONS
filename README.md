@@ -4,3 +4,5 @@
 ## How it works 
 
 ## screenshots preview
+
+## Author details 
