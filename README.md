@@ -5,4 +5,6 @@
 
 ## screenshots preview
 
+## Best practices
+
 ## Author details 
